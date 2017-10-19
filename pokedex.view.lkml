@@ -20,7 +20,7 @@ view: pokedex {
     type: string
     sql: ${TABLE}.Color ;;
   }
-
+#yar
   dimension: defense {
     type: number
     sql: ${TABLE}.Defense ;;
