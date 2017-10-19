@@ -9,5 +9,5 @@ include: "*.view"
 # NOTE: please see https://looker.com/docs/r/sql/bigquery?version=4.12
 # NOTE: for BigQuery specific considerations
 
-explore: pokedex {}
+# explore: pokedex {}
 ###
